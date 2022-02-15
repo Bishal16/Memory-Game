@@ -21,9 +21,6 @@ Within 60 seconds you have to click all the paired number consecutively to gain 
 
 ## Screenshots
 
-
-## Screenshots
-
 #### Starting window:
 ![App Screenshot](https://user-images.githubusercontent.com/38830643/154008680-dd17be0b-444d-45ce-ae35-5a30619bbf93.PNG)
 #### Easy mode:
